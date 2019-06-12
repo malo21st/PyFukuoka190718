@@ -6,8 +6,8 @@
 - https://fukuoka-python.connpass.com/event/131857/
 
 ## ファイルとフォルダの説明
-- バスの現在位置を見える化してみた.pdf     ＬＴ説明資料
-- バスの現在位置を見える化してみた.ipynb   Pythonコード
-- dtfs          GTFS（静的データ）を納めたフォルダ
-- result        出力結果を納めたフォルダ
-- bus_map.mov   バス運行の動画
+- バスの現在位置を見える化してみた.pdf：ＬＴ説明資料
+- バスの現在位置を見える化してみた.ipynb：Pythonコード
+- dtfs：GTFS（静的データ）を納めたフォルダ
+- result：出力結果を納めたフォルダ
+- bus_map.mov：バス運行の動画
