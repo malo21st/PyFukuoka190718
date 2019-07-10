@@ -1,9 +1,9 @@
 ## PyFukokaLT190614
 # PyFukuoka #6 福岡のPython好き集まれー！
 
-- 2019/06/14(金) 19:00 〜 21:00
+- 2019/07/18(木) 19:00 〜 21:00
 - サンライトビル４階 福岡県福岡市中央区渡辺通５丁目２３−８
-- https://fukuoka-python.connpass.com/event/131857/
+- https://fukuoka-python.connpass.com/event/137331/
 
 ## ファイルとフォルダの説明
 - バスの現在位置を見える化してみた.pdf：ＬＴ説明資料
