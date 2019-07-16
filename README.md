@@ -1,4 +1,4 @@
-## PyFukokaLT190718
+## PyFukuokaLT190718
 # PyFukuoka #6 福岡のPython好き集まれー！
 
 - 2019/07/18(木) 19:00 〜 21:00
